@@ -1,0 +1,1 @@
+# esp32-daikin-p1p2-serial
