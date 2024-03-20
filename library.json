@@ -1,0 +1,26 @@
+{
+    "name": "esp32-daikin-p1p2-serial",
+    "title": "Daikin P1P2 serial driver for the ESP32",
+    "version": "0.0.1",
+    "description": "A driver for the Daikin P1P2 protocol on the ESP32 using the MAX22088 Home Bus (HBS) transceiver",
+    "keywords": [
+        "Daikin",
+        "P1P2",
+        "MAX22088",
+        "Home Bus"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/alexanderhoet/esp32-daikin-p1p2-serial.git"
+    },
+    "authors": [
+        {
+            "name": "Alexander Hoet",
+            "email": "alexanderhoet@gmail.com",
+            "maintainer": true
+        }
+    ],
+    "license": "GPL-3.0-or-later",
+    "frameworks": "espidf",
+    "platforms": "espressif32"
+}
